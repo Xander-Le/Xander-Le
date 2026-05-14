@@ -7,4 +7,4 @@ I've already shipped AI inside the enterprise: I established and led AI feature 
 **Building toward four capabilities:** translating AI capabilities into business outcomes, directing technical AI work, defining and measuring AI quality, and managing AI risk.
  
 **Portfolio:** [ai-pm-portfolio](https://github.com/Xander-Le/ai-pm-portfolio)
-**Connect:** [LinkedIn](linkedin.com/in/alexander-le14)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/alexander-le14/)
